@@ -1,0 +1,13 @@
+task-manager/
+│── app/
+│   │── templates/        # HTML files
+│   │── static/           # CSS, JS, images
+│   │── routes.py         # Flask routes
+│   │── models.py         # Database models
+│   │── forms.py          # Forms for authentication
+│   │── __init__.py       # App initialization
+│── config.py             # Configuration settings
+│── run.py                # Entry point for running Flask
+│── requirements.txt      # Python dependencies
+│── Dockerfile            # (Optional) Docker setup
+│── README.md             # Project documentation
